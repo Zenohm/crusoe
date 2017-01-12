@@ -13,6 +13,10 @@ Crusoe
         :target: https://crusoe.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://pyup.io/repos/github/zenohm/crusoe/shield.svg
+     :target: https://pyup.io/repos/github/zenohm/crusoe/
+     :alt: Updates
+
 .. image:: https://pyup.io/repos/github/zenohm/crusoe/python-3-shield.svg
      :target: https://pyup.io/repos/github/zenohm/crusoe/
      :alt: Python 3
