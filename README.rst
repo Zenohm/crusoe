@@ -21,6 +21,10 @@ Crusoe
      :target: https://pyup.io/repos/github/zenohm/crusoe/
      :alt: Python 3
 
+.. image:: https://landscape.io/github/Zenohm/crusoe/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/Zenohm/crusoe/master
+   :alt: Code Health
+   
 
 Uses text to speech to read text on the web and on your computer out loud.
 
